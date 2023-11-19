@@ -24,7 +24,7 @@
         "vid": "0x4B54"
     },
     "layouts": {
-        "LAYOUT_beta1": {
+        "LAYOUT_beta_2": {
             "layout": [
                 {"matrix": [0, 3], "x": 3, "y": 0},
                 {"matrix": [0, 2], "x": 2, "y": 0},

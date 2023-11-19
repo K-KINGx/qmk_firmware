@@ -4,7 +4,7 @@
 #include QMK_KEYBOARD_H
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-    [0] = LAYOUT_beta1(
+    [0] = LAYOUT_beta_2(
         KC_F7, KC_F8, KC_F9, KC_F10, KC_F11, KC_F12, KC_SPC, 
 		
 		KC_7, KC_8, KC_9, KC_0, KC_MINS, KC_EQL, KC_BSPC, 
