@@ -1,8 +1,8 @@
 {
     "manufacturer": "Thanakit Srimakum",
-    "keyboard_name": "kts/beta1",
+    "keyboard_name": "beta1",
     "maintainer": "K-KINGx",
-    "bootloader": "atmel-dfu",
+    "bootloader": "caterina",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
